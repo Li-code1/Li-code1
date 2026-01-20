@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://github.com/Li-code1.png" width="150px" style="border-radius: 50%;" />
+<img src="https://github.com/Li-code1.png" width="160px" style="border-radius: 50%; border: 3px solid #F70000;" />
 
-# Olá, eu sou a Liliane Lima! 
+# Olá, eu sou a Liliane Lima!
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%26+React;Business+Intelligence" alt="Typing SVG" />
+
 ### Desenvolvedora Full Stack Python em formação | Graduanda em ADS
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Liliane%20Lima&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Python+%26+React;Business+Intelligence;)](https://git.io/typing-svg)
+---
 
 </div>
-
----
 
 ### 🚀 Sobre Mim
 Sou uma profissional em transição de carreira para a Tecnologia da Informação, unindo **mais de 7 anos de experiência no setor financeiro** (Itaú Unibanco) com o desenvolvimento de software moderno. Minha base em Administração e minha Pós-graduação em Liderança me permitem construir códigos que não apenas funcionam, mas que resolvem problemas reais de negócio com foco em eficiência e escalabilidade.
@@ -82,4 +81,3 @@ Interface de operações financeiras com lógica de backend rigorosa em Python.
 *"Transformando dados em soluções inteligentes e interfaces humanas."*
 
 </div>
-
