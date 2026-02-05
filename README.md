@@ -37,15 +37,6 @@ Unindo a solidez de **7 anos no setor financeiro (Itaú Unibanco)** com a inova�
 
 ---
 
-### 📊 Performance & Atividade
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Li-code1&show_icons=true&theme=omni&hide_rank=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li-code1&layout=compact&theme=omni&hide=csharp,cpp" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
