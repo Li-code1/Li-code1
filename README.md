@@ -3,7 +3,7 @@
 <img src="https://github.com/Li-code1.png" width="150px" style="border-radius: 50%; border: 4px solid #F70000; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
 
 # Liliane Lima
-### **Software Developer | Full Stack Python | Graduanda em Análise e Desenvolvimento de Sistemas**
+### **Software Developer | Front-End | Graduanda em Análise e Desenvolvimento de Sistemas**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Soluções+Estratégicas;Python+%26+React;Business+Intelligence)](https://git.io/typing-svg)
 
