@@ -12,7 +12,7 @@
 </div>
 
 ### 🏛️ Sobre Mim
-Unindo a solidez de **7 anos no setor financeiro (Itaú Unibanco)** com a inovação do desenvolvimento Front- End. Sou uma desenvolvedora focada em transformar dados complexos em soluções intuitivas, aplicando maturidade profissional e visão de negócio em cada linha de código.
+Unindo a solidez de **7 anos no setor financeiro (Itaú Unibanco)** com a inovação do desenvolvimento Full Stack. Sou uma desenvolvedora focada em transformar dados complexos em soluções intuitivas, aplicando maturidade profissional e visão de negócio em cada linha de código.
 
 ---
 
