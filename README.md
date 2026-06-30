@@ -20,11 +20,14 @@ Unindo a solidez de **7 anos no setor financeiro (Itaú Unibanco)** com a inova�
 
 <div align="center">
 
-| **Front-end** | **Back-end** | **Ferramentas** |
+| **Front-end** | **Back-end & Testes** | **DevOps & Infraestrutura** |
 | :--- | :--- | :--- |
-| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) |
+| ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | | ![Elasticsearch](https://img.shields.io/badge/ELK_Stack-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) | | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white) | | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 </div>
 
@@ -32,8 +35,10 @@ Unindo a solidez de **7 anos no setor financeiro (Itaú Unibanco)** com a inova�
 
 ### 🚀 Projetos de Impacto
 
-* **📊 SmartMart Pro:** Plataforma de BI para Varejo com processamento de dados em Python.
-* **🏦 Digital Banking:** Simulador de operações financeiras com arquitetura limpa.
+* **📊 SmartFinance | Consumer Insight Intelligence:** Plataforma de inteligência financeira para gestão de gastos pessoais e análise estratégica com JavaScript e Context API.
+* **⚡ PokeFast API:** API RESTful de alta performance com consumo concorrente via asyncio, cache em Redis e testes automatizados com Pytest.
+* **📈 SmartMart Pro:** Dashboard Full Stack projetado para monitoramento de vendas e análise de lucros com Python, FastAPI e React.
+* **🐾 Pet&Style:** E-commerce fictício focado em interface moderna e responsiva utilizando HTML5 e Tailwind CSS.
 
 ---
 
