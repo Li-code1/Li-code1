@@ -47,7 +47,7 @@ Unindo a solidez de **7 anos no setor financeiro (Ita√∫ Unibanco)** com a inova√
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/liliane-lima-ti)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:li.lima662@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lilianelimafullstackdeveloper@gmail.com)
 
 <br />
 
