@@ -12,7 +12,7 @@
 </div>
 
 ### 🏛️ Sobre Mim
-Unindo a solidez de **7 anos no setor financeiro (Itaú Unibanco)** com a inovação do desenvolvimento Full Stack. Sou uma desenvolvedora focada em transformar dados complexos em soluções intuitivas, aplicando maturidade profissional e visão de negócio em cada linha de código.
+Sou a Liliane **Desenvolvedora Web Full Stack Júnior** graduanda em Análise e Desenvolvimento de Sistemas, com especialização em DevSecOps. Crio sistemas, sites e lojas virtuais com Python, Java, React, WordPress e Shopify, com foco em SEO, segurança e conversão.
 
 ---
 
