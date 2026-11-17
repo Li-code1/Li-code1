@@ -12,7 +12,7 @@
 </div>
 
 ### 🏛️ Sobre Mim
-Sou a Liliane **Desenvolvedora Web Full Stack Júnior** graduanda em Análise e Desenvolvimento de Sistemas, com especialização em DevSecOps. Crio sistemas, sites e lojas virtuais com Python, Java, React, WordPress e Shopify, com foco em SEO, segurança e conversão.
+Sou a Liliane **Desenvolvedora Web Full Stack Júnior**, graduanda em Análise e Desenvolvimento de Sistemas, com especialização em DevSecOps. Crio sistemas, sites e lojas virtuais com Python, Java, React, WordPress e Shopify, com foco em SEO, segurança e conversão.
 
 ---
 
