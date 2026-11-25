@@ -5,7 +5,7 @@
 # Liliane Lima
 ### **Software Developer | Full Stack | Graduanda em Análise e Desenvolvimento de Sistemas**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Soluções+Estratégicas;Python+%26+React;Business+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=Soluções+Estratégicas;Full+%26+Stack;Business+Intelligence)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
